@@ -1,6 +1,6 @@
-# app
+# footballApp-vue
 
-> app
+> vue-cli + vue-resource + vue-router
 
 ## Build Setup
 
