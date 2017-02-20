@@ -1,0 +1,48 @@
+{
+    "ver": "1.0",
+    "ret": true,
+    "errcode": 0,
+    "errmsg": "",
+    "data": [
+        {
+            "id": 1,
+            "img": "/static/images/img1.jpg",
+            "title": "小丸子1"
+        },
+        {
+            "id": 2,
+            "img": "/static/images/img2.jpg",
+            "title": "小丸子2"
+        },
+        {
+            "id": 3,
+            "img": "/static/images/img3.jpg",
+            "title": "小丸子3"
+        },
+        {
+            "id": 4,
+            "img": "/static/images/img4.jpg",
+            "title": "小丸子4"
+        },
+        {
+            "id": 5,
+            "img": "/static/images/img1.jpg",
+            "title": "小丸子5"
+        },
+        {
+            "id": 6,
+            "img": "/static/images/img2.jpg",
+            "title": "小丸子6"
+        },
+        {
+            "id": 7,
+            "img": "/static/images/img3.jpg",
+            "title": "小丸子7"
+        },
+        {
+            "id": 8,
+            "img": "/static/images/img4.jpg",
+            "title": "小丸子8"
+        }
+    ]
+}

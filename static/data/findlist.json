@@ -1,0 +1,36 @@
+{
+    "ver": "1.0",
+    "ret": true,
+    "errcode": 0,
+    "errmsg": "",
+    "data": [
+        {
+            "id": 1,
+            "img":"../images/Pikachu.jpg",
+            "title": "朴智星",
+            "content": "朴智星：韩国战中国需做好准备",
+            "attention":false
+        },
+        {
+            "id": 2,
+            "img":"../images/Pikachu.jpg",
+            "title": "黄博文",
+            "content": "黄博文：杜伟微博表决心 克希尔开心未和国足同组",
+            "attention":true
+        },
+        {
+            "id": 3,
+            "img":"../images/Pikachu.jpg",
+            "title": "颜强",
+            "content": "颜强：国足出线与否不是最重要的，态度决定一切；颜强：国足出线与否不重要 态度决定一切",
+            "attention":false
+        },
+        {
+            "id": 4,
+            "img":"../images/Pikachu.jpg",
+            "title": "吴曦",
+            "content": "吴曦：渴望12强战出色表现 任航：国足需做好自己",
+            "attention":true
+        }
+    ]
+}
